@@ -1,0 +1,12 @@
+#Origen Destino Peso
+A       B       2.0
+A       G       6.0
+B       C       7.0
+B       E       2.0
+G       E       1.0
+G       H       4.0
+E       F       2.0
+C       F       3.0
+C       D       3.0
+H       F       2.0
+H       D       2.0
